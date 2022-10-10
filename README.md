@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mehdi Zallaghi
 - 👀 I’m interested in computational science
 - 🌱 I’m currently learning deep learning for computational application and image processing 
-- 💞️ I’m looking to collaborate on computational science research projects
-- 📫 Reach me by email: mmzallaghi@gmail.com
+- 
+- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mzallaghi4&label=Profile%20views&color=0e75b6&style=flat" alt="mzallaghi4" /> </p>
 
 
@@ -23,7 +23,7 @@ https://github.com/mzallaghi4/PDE-Constrained-Optimization
 https://github.com/mzallaghi4/Deep-Learning
 
 📄Numrical Analysis 
- -Direct Numerical Simulation @
+ - Direct Numerical Simulation @
   https://github.com/mzallaghi4/NumericalPDEs
 
 
