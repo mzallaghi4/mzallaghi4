@@ -15,15 +15,15 @@
 
 # My Research Projects
 📄 Optimization and Control
- - Optimal Control by RL
+ - Optimal Control by RL  @
 https://github.com/mzallaghi4/PDE-Constrained-Optimization
 
 📄Deep Learning
- - Image processing
+ - Image processing  @
 https://github.com/mzallaghi4/Deep-Learning
 
 📄Numrical Analysis 
-  -Direct Numerical Simulation
+ -Direct Numerical Simulation @
   https://github.com/mzallaghi4/NumericalPDEs
 
 
