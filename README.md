@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mehdi Zallaghi
 - 👀 I’m interested in computational science
-- 🌱 I’m currently learning deep learning for computational application and image processing 
+- 🌱 I consider myself a computational scientist. Currently, I am focusing on my learning about deep learning and computer vision.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mzallaghi4&label=Profile%20views&color=0e75b6&style=flat" alt="mzallaghi4" /> </p>
 
