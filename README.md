@@ -2,8 +2,7 @@
 - 👀 I’m interested in computational science
 - 🌱 I consider myself a computational scientist. Currently, I am focusing on my learning about deep learning and computer vision.
 
-# My webpage
-📄 https://mzallaghi.github.io
+### My webpage:   https://mzallaghi.github.io
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mzallaghi4&label=Profile%20views&color=0e75b6&style=flat" alt="mzallaghi4" /> </p>
 
@@ -15,24 +14,10 @@
 <a href="https://instagram.com/mehdizallaghi4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehdizallaghi4" height="30" width="40" /></a>
 </p>
 
-  <summary><h2>📘 My Projects</h2></summary>
-
-  <!-- Repo info cards - https://github.com/mzallaghi4/github-readme-stats -->
-  <!-- Small repo cards (fork) - https://github.com/mzallaghi4/github-readme-stats -->
-  <p align="left">
-    <a href="[https://github.com/mzallaghi4/github-readme-streak-stats](https://github.com/mzallaghi4/PythonLearning)](https://github.com/mzallaghi4/PythonLearning)"><img width="278" src="[https://mzallaghi4-github-readme-stats](https://github.com/mzallaghi4/PythonLearning).vercel.app/api/pin/?username=mzallaghi4&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-   
-  <a href="[https://github.com/mzallaghi4/readme-typing-svg](https://github.com/mzallaghi4/Enercoin)"><img width="278" src="[https://mzallaghi4-github-readme-stats](https://github.com/mzallaghi4/Enercoin).vercel.app/api/pin/?username=mzallaghi4&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-  
-  <a href="https://github.com/mzallaghi4/custom-icon-badges"><img width="278" src="https://mzallaghi4-github-readme-stats.vercel.app/api/pin?username=mzallaghi4&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
-    </p>
+ <summary><h2>📘 My Projects</h2></summary>
 
 
-</details>
-
-<details open> 
- 
-# My Research Projects
+# My  Projects
 📄 Optimization and Control
  - Optimal Control by RL  @
 https://github.com/mzallaghi4/PDE-Constrained-Optimization
