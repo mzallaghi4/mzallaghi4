@@ -20,9 +20,11 @@
   <!-- Repo info cards - https://github.com/mzallaghi4/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/mzallaghi4/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/mzallaghi4/github-readme-streak-stats"><img width="278" src="https://mzallaghi4-github-readme-stats.vercel.app/api/pin/?username=mzallaghi4&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
-    <a href="https://github.com/mzallaghi4/readme-typing-svg"><img width="278" src="https://mzallaghi4-github-readme-stats.vercel.app/api/pin/?username=mzallaghi4&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-    <a href="https://github.com/mzallaghi4/custom-icon-badges"><img width="278" src="https://mzallaghi4-github-readme-stats.vercel.app/api/pin?username=mzallaghi4&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
+    <a href="[https://github.com/mzallaghi4/github-readme-streak-stats](https://github.com/mzallaghi4/PythonLearning)](https://github.com/mzallaghi4/PythonLearning)"><img width="278" src="[https://mzallaghi4-github-readme-stats](https://github.com/mzallaghi4/PythonLearning).vercel.app/api/pin/?username=mzallaghi4&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+   
+  <a href="[https://github.com/mzallaghi4/readme-typing-svg](https://github.com/mzallaghi4/Enercoin)"><img width="278" src="[https://mzallaghi4-github-readme-stats](https://github.com/mzallaghi4/Enercoin).vercel.app/api/pin/?username=mzallaghi4&repo=readme-typing-svg&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+  
+  <a href="https://github.com/mzallaghi4/custom-icon-badges"><img width="278" src="https://mzallaghi4-github-readme-stats.vercel.app/api/pin?username=mzallaghi4&repo=custom-icon-badges&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="custom-icon-badges"></a>
     </p>
 
 
