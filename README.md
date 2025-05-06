@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mehdi Zallaghi
-- 👀 I’m interested in computational science
-- 🌱 I consider myself a computational scientist. Currently, I am focusing on my learning about deep learning and computer vision.
+-  Hi, I’m Mehdi Zallaghi
+-  I’m interested in computational science
+-  I consider myself a computational scientist. Currently, I am focusing on my learning about deep learning and computer vision.
 
 ### My webpage:   https://mzallaghi4.github.io
 
