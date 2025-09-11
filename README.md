@@ -1,6 +1,6 @@
 -  Hi, I’m Mehdi Zallaghi
 -  I’m interested in computational science
--  I consider myself a computational scientist. Currently, I am focusing on my learning about deep learning and computer vision.
+-  I consider myself a computational scientist. Currently, I am focusing on my learning about deep learning and data science.
 
 ### My webpage:   https://mzallaghi4.github.io
 
@@ -15,25 +15,6 @@
 </p>
 
 <summary><h2>📘 My Projects</h2></summary>
-
-📘 Python Learning Courses
-
-https://github.com/mzallaghi4/PythonLearning
-
-
-# My  Research Projects
-📄 Optimization and Control
- - Optimal Control by RL  @
-https://github.com/mzallaghi4/PDE-Constrained-Optimization
-
-📄Deep Learning
- - Image processing  @
-https://github.com/mzallaghi4/Deep-Learning
-
-📄Numrical Analysis 
- - Direct Numerical Simulation @
-  https://github.com/mzallaghi4/NumericalPDEs
-
 
 
 ## 📊 Github stats
