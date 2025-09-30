@@ -16,11 +16,12 @@
 
 <summary><h2>📘 My Projects</h2></summary>
 
-# Stochastic Optimization and Control
+## Stochastic Optimization and Control
 
 For more details on portfolio optimization using stochastic optimization and control;
 
-Check out the [Stochastic Optimization and Control repository](https://github.com/mzallaghi4/Stochastic-Optimization-and-Control).
+Check out the [Stochastic Optimization and Control Project](https://github.com/mzallaghi4/Stochastic-Optimization-and-Control).
+
 
 
 
