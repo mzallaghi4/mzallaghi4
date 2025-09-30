@@ -16,7 +16,7 @@
 
 <summary><h2>📘 My Projects</h2></summary>
 
-## Stochastic Optimization and Control
+### Stochastic Optimization and Control
 
 For more details on portfolio optimization using stochastic optimization and control;
 
