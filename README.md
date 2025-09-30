@@ -1,6 +1,6 @@
 -  Hi, I’m Mehdi Zallaghi
 -  I’m interested in computational science
--  I consider myself a computational scientist. Currently, I am focusing on my learning about deep learning and data science.
+-  I consider myself a computational scientist, currently concentrating on advancing my expertise in deep learning and data science, with applications in engineering and quantitative finance.
 
 ### My webpage:   https://mzallaghi4.github.io
 
